@@ -1,5 +1,5 @@
 # branches-and-things-
-for practicing github flow
+for practicing github flow, and testing conflicts
 
 
 self tutorial for if i forget how branches work :) 
