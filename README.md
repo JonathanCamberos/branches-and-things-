@@ -70,8 +70,6 @@ Now lets merge the readme-edits branch into the main branch via merging the pull
 **conflicts**
 wa pull request may introduce changes to code that conflict with the existing code on main. If there are any conflicts, github will alert you about conflicting code and prevent merging until the conflicts are resolved.
 
-
-
 **pushing to main, updating branches**
 lets say you push something directly to main, and now one of your branches 'editreadme' is now out of date
 
@@ -81,3 +79,14 @@ lets try to add another section (without pulling from the branch first)
 now we will add this last section (in the branch)
 but we do not have what we added from the main sections (from main)
 lets see what happens when we try and make a pull request
+
+**the issue**
+yup!
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/587365a4-917e-4e1d-b7e5-72e5945e6124)
+
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/a783dd15-de8b-4037-b73f-a1355ffc6964)
+
+both branches were trying to type to the same line numbers so there was a conflict.
+We simple moved things around in the resolve conflict section and we're good to go
+
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/73647873-ad13-442f-8fcf-e3a2c451c90a)
