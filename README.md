@@ -14,3 +14,45 @@ This diagram shows:
 
 
 **To create a branch******
+Got to code tab
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/9b166811-c4a0-4abc-8948-080e7e4bafa3)
+
+Type a branch name, readme-edits, into the text box
+
+Click 'Create branch'
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/8533d38c-2a1f-496a-9d0a-407719f8c514)
+
+
+**Make an commit changes**
+Now that we have created a new branch, we are not at the new readme-edits branch, (a copy of main)
+
+We can still make and save changes to the files in your repository. On GitHub, saved cahgnes are called commits. 
+
+Each commit has a associated commit message
+
+Lets edit the readme file.
+
+Then Click **commit changes**
+
+Then write a commit message and click commit changes.
+
+**Note** - these chagnes will be made only to the README file on the **readme-edits** branch, so now this branch contains content thats different from main
+
+**Opening a pull request**
+Now that we have the changes in a branch off of main, we can open the pull request.
+
+Pull request shows differences, of the content from both branches.
+These changes, additions and subtractions, are shown in different colors.
+
+As soon as you make a commit, you can open a pull request.
+
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/d5626f5a-b5aa-4c99-9e91-67e3df9f2ffb)
+
+**Reviewing a pull request**
+Now when collaborating with others, this is where you can ask for their review.
+
+**Merging your pull request**
+Now lets merge the readme-edits branch into the main branch via merging the pull request, merging the branch and incorporating it into main.
+
+**conflicts**
+wa pull request may introduce changes to code that conflict with the existing code on main. If there are any conflicts, github will alert you about conflicting code and prevent merging until the conflicts are resolved.
