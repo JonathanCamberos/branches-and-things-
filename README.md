@@ -73,3 +73,6 @@ wa pull request may introduce changes to code that conflict with the existing co
 
 **pushing to main, updating branches**
 lets say you push something directly to main, and now one of your branches 'editreadme' is now out of date
+
+will this be an issue? lets see, we added this last section (from main)
+lets try to add another section (without pulling from the branch first)
