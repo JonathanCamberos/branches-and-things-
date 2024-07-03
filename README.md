@@ -71,8 +71,13 @@ Now lets merge the readme-edits branch into the main branch via merging the pull
 wa pull request may introduce changes to code that conflict with the existing code on main. If there are any conflicts, github will alert you about conflicting code and prevent merging until the conflicts are resolved.
 
 
+
 **pushing to main, updating branches**
 lets say you push something directly to main, and now one of your branches 'editreadme' is now out of date
 
 will this be an issue? lets see, we added this last section (from main)
 lets try to add another section (without pulling from the branch first)
+
+now we will add this last section (in the branch)
+but we do not have what we added from the main sections (from main)
+lets see what happens when we try and make a pull request
