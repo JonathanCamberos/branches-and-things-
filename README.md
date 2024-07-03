@@ -38,6 +38,17 @@ Then write a commit message and click commit changes.
 
 **Note** - these chagnes will be made only to the README file on the **readme-edits** branch, so now this branch contains content thats different from main
 
+Click on the Pull Requests tab
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/42ee0a9f-445a-4f4f-9764-4aaf62dc2fc7)
+
+2. Click New Pull Request
+
+3. In the example comparisons box, select the branch you made, readme-edits, and compare itto the original
+
+4. Look over the changes in diffs on the compare page
+
+5. Click create pull request, give it a title and brief description, click create pull request
+
 **Opening a pull request**
 Now that we have the changes in a branch off of main, we can open the pull request.
 
