@@ -13,7 +13,7 @@ This diagram shows:
 ![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/22c319f2-463e-4724-931a-becdca6ba9ac)
 
 
-**To create a branch******
+**To create a branch**
 Got to code tab
 ![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/9b166811-c4a0-4abc-8948-080e7e4bafa3)
 
