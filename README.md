@@ -62,6 +62,8 @@ As soon as you make a commit, you can open a pull request.
 **Reviewing a pull request**
 Now when collaborating with others, this is where you can ask for their review.
 
+![image](https://github.com/JonathanCamberos/branches-and-things-/assets/73202309/2aec3aec-c949-4a8d-a12b-989bc62c2b6f)
+
 **Merging your pull request**
 Now lets merge the readme-edits branch into the main branch via merging the pull request, merging the branch and incorporating it into main.
 
