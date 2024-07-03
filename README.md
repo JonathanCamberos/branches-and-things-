@@ -69,3 +69,7 @@ Now lets merge the readme-edits branch into the main branch via merging the pull
 
 **conflicts**
 wa pull request may introduce changes to code that conflict with the existing code on main. If there are any conflicts, github will alert you about conflicting code and prevent merging until the conflicts are resolved.
+
+
+**pushing to main, updating branches**
+lets say you push something directly to main, and now one of your branches 'editreadme' is now out of date
